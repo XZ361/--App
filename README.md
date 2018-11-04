@@ -4,7 +4,7 @@
 技术主要是微信小程序官方文档和javascript<br/>
 --
 app最终效果如下：<br/>
-![image]()            ![image]()
+![image](https://github.com/wangxiaozhan/--App/upload/master/assets/img/01.png)            ![image](https://github.com/wangxiaozhan/--App/upload/master/assets/img/02.png)
 文件结构如下:<br/>
 │ app.js<br/>
 │  app.json<br/>
